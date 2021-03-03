@@ -22,7 +22,7 @@ The purpose of the project is to selenium webdriver framework for web applicatio
 # Project Structure
 
 <p align="center">
-<img width="250" height="450" src="Image/projectStructure.png"><br />
+<img width="350" height="450" src="Image/projectStructure.png"><br />
 </p>
 
 
