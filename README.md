@@ -1,10 +1,10 @@
 <p align="center">
-<img width="950" height="250" src="Image/seleniummavenlogo.png">
+<img width="1000" height="250" src="Image/seleniummavenlogo.png">
 </p>
 
 # Selenium WebDriver Automation Framework
 
-The purpose of the project is to display Keyword driven framework for web applications using SeleniumLibrary in Robotframework.
+The purpose of the project is to selenium webdriver framework for web applications using Java TestNG Maven setup.
 
 ## Tools & Technologies
 
