@@ -4,6 +4,8 @@
 <p align="center">
 <img width="250" height="250" src="Image/projectStructure.png"><br />
 </p>
+
+
 * com.weightwatchers.base:-
 Under this package we have TestBase.java class which manages the prep work which needs to be done before any test executes for example it has methods which initiate the chrome driver
 paths and launch of browser etc. This is done to ensure for code re-usability and keep test code clean.
