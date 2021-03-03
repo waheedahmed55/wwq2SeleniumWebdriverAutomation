@@ -60,14 +60,14 @@ These are ways:
 <img width="700" height="250" src="Image/chromeBrowserlaunched.png"><br />
 </p>
 
-OR You can execute at Class level
+* OR You can execute at Class level
 
 * Step 1: Right Click on WeightWatchersTest.java->Run As->TestNG Test
 <p align="center">
 <img width="300" height="250" src="Image/runtestfromclass.png"><br />
 </p>
 
-OR You can execute from Command line as Maven
+* OR You can execute from Command line as Maven
 
 * Step 1: Open the Project Folder root folder in Command Prompt
 <p align="center">
@@ -86,5 +86,5 @@ OR You can execute from Command line as Maven
 
 * Step 3: You will see it will execute test and test report number of test executed passed failed . Also it will print out the meetings details
 <p align="center">
-<img width="300" height="250" src="Image/commandlineoutputmvn.png"><br />
+<img width="400" height="250" src="Image/commandlineoutputmvn.png"><br />
 </p>
