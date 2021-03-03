@@ -81,7 +81,7 @@ These are ways:
 </p>
 
 <p align="center">
-<img width="350" height="250" src="Image/settingpropertiespart2.png"><br />
+<img width="400" height="250" src="Image/settingpropertiespart2.png"><br />
 </p>
 
 
