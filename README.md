@@ -4,7 +4,7 @@ These are ways:
 
 * Step 1: Download the code from repository and import in the eclipse
 <p align="center">
-<img width="400" height="250" src="Image/importFile.png"><br />
+<img width="250" height="250" src="Image/importFile.png"><br />
 </p>
 
 
