@@ -145,11 +145,11 @@ These are ways:
 
 * Extent Dashboard HTML Report: Under target Folder->test-output->ExtentReports->WeightWatchersReport.html . Open this in Chrome browser
 <p align="center">
-<img width="250" height="350" src="Image/extentreport.png"><br />
+<img width="350" height="350" src="Image/extentreport.png"><br />
 </p>
 
 * TestNG HTML Report: Under target Folder->test-output->index.html
 <p align="center">
-<img width="250" height="350" src="Image/testnghtmlreport.png"><br />
+<img width="350" height="350" src="Image/testnghtmlreport.png"><br />
 </p>
 
