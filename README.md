@@ -51,13 +51,13 @@ These are ways:
 
 * Step 1: Download the code from repository and import in the eclipse. File->Open Projects from File System
 <p align="center">
-<img width="250" height="250" src="Image/importFile.png"><br />
+<img width="250" height="350" src="Image/importFile.png"><br />
 </p>
 
 
 * Step 2: Click on Directory and Navigate to source code folder you have dowloaded. Select the Folder & Click on Select Folder Button
 <p align="center">
-<img width="250" height="250" src="Image/clickondirectory.png"><br />
+<img width="450" height="300" src="Image/clickondirectory.png"><br />
 </p>
 
 <p align="center">
@@ -77,11 +77,11 @@ These are ways:
 
 * Step 5: Before we run the test this mandatory step as we have some special chars in page title. Right Click Project Weighwatchers->Properties. Under Resources select Other and from drop-down select UTF-8. Click Apply and Close button
 <p align="center">
-<img width="250" height="250" src="Image/settingpropertiespart1.png"><br />
+<img width="250" height="350" src="Image/settingpropertiespart1.png"><br />
 </p>
 
 <p align="center">
-<img width="250" height="250" src="Image/settingpropertiespart2.png"><br />
+<img width="350" height="250" src="Image/settingpropertiespart2.png"><br />
 </p>
 
 
