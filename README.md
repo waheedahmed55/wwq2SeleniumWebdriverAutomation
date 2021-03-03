@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="250" src="Image/seleniummavenlogo.png">
+<img width="1000" height="150" src="Image/seleniummavenlogo.png">
 </p>
 
 # Selenium WebDriver Automation Framework
