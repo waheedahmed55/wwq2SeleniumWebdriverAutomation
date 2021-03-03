@@ -2,7 +2,7 @@
 # Project Structure
 
 <p align="center">
-<img width="250" height="250" src="Image/projectStructure.png"><br />
+<img width="250" height="350" src="Image/projectStructure.png"><br />
 </p>
 
 
