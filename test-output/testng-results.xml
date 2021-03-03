@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Weight Watchers Automation Suite" duration-ms="82745" started-at="2021-03-03T07:22:44 EST" finished-at="2021-03-03T07:24:07 EST">
+    <groups>
+    </groups>
+    <test name="Weight watchers Test Cases" duration-ms="82745" started-at="2021-03-03T07:22:44 EST" finished-at="2021-03-03T07:24:07 EST">
+      <class name="com.weightwatchers.tests.WeightWatchersTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="setUp" is-config="true" duration-ms="22775" started-at="2021-03-03T07:22:44 EST" finished-at="2021-03-03T07:23:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyHomePageTitleTest()[pri:1, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="VerifyHomePageTitleTest" duration-ms="155" started-at="2021-03-03T07:23:07 EST" description="Verify Homepage Title" finished-at="2021-03-03T07:23:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageTitleTest -->
+        <test-method status="PASS" signature="VerifyFindNavigationWorkshopTest()[pri:2, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="VerifyFindNavigationWorkshopTest" duration-ms="10872" started-at="2021-03-03T07:23:07 EST" description="Verify Find workshop page title" finished-at="2021-03-03T07:23:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFindNavigationWorkshopTest -->
+        <test-method status="PASS" signature="SearchAndPrintResultsTest()[pri:3, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="SearchAndPrintResultsTest" duration-ms="7205" started-at="2021-03-03T07:23:18 EST" description="Print Location Name and Distance" finished-at="2021-03-03T07:23:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchAndPrintResultsTest -->
+        <test-method status="PASS" signature="VerifyLocationAndTitleTest()[pri:4, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="VerifyLocationAndTitleTest" duration-ms="12548" started-at="2021-03-03T07:23:26 EST" description="Verify location page title" finished-at="2021-03-03T07:23:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocationAndTitleTest -->
+        <test-method status="PASS" signature="PrintBusinessHoursTest()[pri:5, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="PrintBusinessHoursTest" duration-ms="6285" started-at="2021-03-03T07:23:38 EST" description="Print Business Hours" finished-at="2021-03-03T07:23:44 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintBusinessHoursTest -->
+        <test-method status="PASS" signature="PrintMeetingsDetailsTest()[pri:6, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="PrintMeetingsDetailsTest" duration-ms="20348" started-at="2021-03-03T07:23:44 EST" description="Print Meetings Details" finished-at="2021-03-03T07:24:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintMeetingsDetailsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.weightwatchers.tests.WeightWatchersTest@1b0a7baf]" name="tearDown" is-config="true" duration-ms="1924" started-at="2021-03-03T07:24:05 EST" finished-at="2021-03-03T07:24:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.weightwatchers.tests.WeightWatchersTest -->
+    </test> <!-- Weight watchers Test Cases -->
+  </suite> <!-- Weight Watchers Automation Suite -->
+</testng-results>

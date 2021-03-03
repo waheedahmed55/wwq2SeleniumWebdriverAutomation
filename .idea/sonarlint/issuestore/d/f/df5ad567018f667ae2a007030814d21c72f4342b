@@ -1,0 +1,46 @@
+
+l	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÑÜg8Ôƒÿ²ÿ.
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ĞÑ…üÿÿÿÿ8·®Æ÷ş.
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æöôúıÿÿÿÿ8…‹§‘ÿ.
+m	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üƒ¹ğ8§ß†³ÿ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÒ«ñ8Şôáõş.
+q	java:S116"URename this field "ResultName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÅÄ8ŸğÏŒÿ.
+z	java:S116"YRename this field "LocationSearch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÖØûÿÿÿÿ8ŠûÍŒÿ.
+j	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù§¢8ĞøÃöş.
+o	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÈªÎüÿÿÿÿ8ÜØÓ‰ÿ.
+o	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ß”ÿÿÿÿÿ8Ù¦¾Šÿ.
+`
+java:S1155Q">Use isEmpty() to check whether the collection is empty or not.(±’œşÿÿÿÿ8ÍòÙ³ÿ.
+o	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú¹öşÿÿÿÿ8áÄ¨Šÿ.
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÏÌ¨ıÿÿÿÿ8å¥ìõş.
+r	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú¹öşÿÿÿÿ8µÈ©Šÿ.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ÓË›ô8¸™Î³ÿ.
+t	java:S116"SRename this field "Address2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸À¤±ûÿÿÿÿ8„«ÕŒÿ.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(Œ­éşÿÿÿÿ8ñïÚ³ÿ.
+o	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¼Î®8»ÖËŒÿ.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(©„Šşøÿÿÿÿ8ËÇË³ÿ.
+‰
+java:S1488;"gImmediately return this expression instead of assigning it to the temporary variable "CombinedAddress".(Øø‘ªıÿÿÿÿ8ü°óŒÿ.
+r	java:S116"QRename this field "Studio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¸ÉÎûÿÿÿÿ8—ªÊŒÿ.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(ãÓÏ°øÿÿÿÿ8Š¨à³ÿ.
+`
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(±’œşÿÿÿÿ8Øˆİ³ÿ.
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë›ø³úÿÿÿÿ8¿íïŒÿ.
+{
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÂºÇøÿÿÿÿ8ñïÚ³ÿ.
+t	java:S116"SRename this field "Address1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€òÛıÿÿÿÿ8ğëÓŒÿ.
+u
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÛ8Ôƒÿ²ÿ.
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çàéîûÿÿÿÿ8¨Ñ±öş.
+r	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÿñ‡şÿÿÿÿ8¿íïŒÿ.
+t	java:S116"XRename this field "BusinessHours" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×î²…8¥×ØŒÿ.
+o	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥šğúÿÿÿÿ8è™şöş.
+u
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÛ8ıšâ‘ÿ.
+{
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÂºÇøÿÿÿÿ8ğÊİ³ÿ.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(Œ­éşÿÿÿÿ8ğÊİ³ÿ.
+u	java:S116"YRename this field "ResultDistance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òüˆ«8°™ÑŒÿ.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(ãÓÏ°øÿÿÿÿ8öÃŞ³ÿ.
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øø‘ªıÿÿÿÿ8‡ÒìŒÿ.
+o	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÔ™ßûÿÿÿÿ8­²èöş.

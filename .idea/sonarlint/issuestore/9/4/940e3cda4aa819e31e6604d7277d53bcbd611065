@@ -1,0 +1,13 @@
+
+K
+java:S1128
+".Remove this unused import 'org.testng.Assert'.(Ø£ÿ§8§èÇŞş.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ó©Ôşÿÿÿÿ8§èÇŞş.
+f
+java:S1128	"DRemove this unused import 'org.openqa.selenium.support.PageFactory'.(çáëşÿÿÿÿ8µæôÿ.
+b
+java:S1128"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ8†§À´ÿ.
+a
+java:S1128"?Remove this unused import 'org.openqa.selenium.support.FindBy'.(¶º´éùÿÿÿÿ8Ô¹ÿ.
+_
+java:S1128"=Remove this unused import 'com.weightwatchers.base.TestBase'.(€Ï¶Èûÿÿÿÿ8„…Ü‹ÿ.
