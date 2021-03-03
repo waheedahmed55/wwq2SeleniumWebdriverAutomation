@@ -93,7 +93,7 @@ These are ways:
 
 * Step 7: You will notice in Eclipse Console TestNG will start 
 <p align="center">
-<img width="300" height="250" src="Image/consolepart1.png"><br />
+<img width="450" height="250" src="Image/consolepart1.png"><br />
 </p>
 
 
