@@ -133,14 +133,14 @@ These are ways:
 
 * Step 3: You will see it will execute test and test report number of test executed passed failed . Also it will print out the meetings details
 <p align="center">
-<img width="700" height="550" src="Image/commandlineoutputmvn.png"><br />
+<img width="750" height="550" src="Image/commandlineoutputmvn.png"><br />
 </p>
 
 # Testout & Reports
 
 * Eclipse Console Output will show meeting details 
 <p align="center">
-<img width="250" height="250" src="Image/eclipseconsoleoutput.png"><br />
+<img width="450" height="200" src="Image/eclipseconsoleoutput.png"><br />
 </p>
 
 * Extent Dashboard HTML Report: Under target Folder->test-output->ExtentReports->WeightWatchersReport.html . Open this in Chrome browser
