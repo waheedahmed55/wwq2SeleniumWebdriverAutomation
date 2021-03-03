@@ -117,13 +117,16 @@ These are ways:
 **OR You can execute from Command line as Maven**
 
 * Step 1: Open the Project Folder root folder in Command Prompt
-<p align="center">
-<img width="700" height="250" src="Image/runasmvncommandine.png"><br />
-</p>
 
 ```
    mvn clean install
 ```
+
+<p align="center">
+<img width="700" height="250" src="Image/runasmvncommandine.png"><br />
+</p>
+
+
 
 * Step 2: You will notice it will download dependencies for the first time
 <p align="center">
