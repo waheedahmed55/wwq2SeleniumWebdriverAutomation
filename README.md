@@ -140,16 +140,16 @@ These are ways:
 
 * Eclipse Console Output will show meeting details 
 <p align="center">
-<img width="450" height="200" src="Image/eclipseconsoleoutput.png"><br />
+<img width="500" height="150" src="Image/eclipseconsoleoutput.png"><br />
 </p>
 
 * Extent Dashboard HTML Report: Under target Folder->test-output->ExtentReports->WeightWatchersReport.html . Open this in Chrome browser
 <p align="center">
-<img width="250" height="250" src="Image/extentreport.png"><br />
+<img width="250" height="350" src="Image/extentreport.png"><br />
 </p>
 
 * TestNG HTML Report: Under target Folder->test-output->index.html
 <p align="center">
-<img width="250" height="250" src="Image/testnghtmlreport.png"><br />
+<img width="250" height="350" src="Image/testnghtmlreport.png"><br />
 </p>
 
