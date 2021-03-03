@@ -46,7 +46,7 @@ These are ways:
 
 * Step 7: You will notice in Eclipse Console TestNG will start 
 <p align="center">
-<img width="700" height="250" src="Image/consolepart1.png"><br />
+<img width="300" height="250" src="Image/consolepart1.png"><br />
 </p>
 
 
@@ -64,7 +64,7 @@ OR You can execute at Class level
 
 * Step 1: Right Click on WeightWatchersTest.java->Run As->TestNG Test
 <p align="center">
-<img width="700" height="250" src="Image/runtestfromclass.png"><br />
+<img width="300" height="250" src="Image/runtestfromclass.png"><br />
 </p>
 
 OR You can execute from Command line as Maven
@@ -73,9 +73,11 @@ OR You can execute from Command line as Maven
 <p align="center">
 <img width="700" height="250" src="Image/runasmvncommandine.png"><br />
 </p>
-```mvn
+
+```
    mvn clean install
 ```
+
 * Step 2: You will notice it will download dependencies for the first time
 <p align="center">
 <img width="700" height="250" src="Image/runasmvncommandine.png"><br />
@@ -84,5 +86,5 @@ OR You can execute from Command line as Maven
 
 * Step 3: You will see it will execute test and test report number of test executed passed failed . Also it will print out the meetings details
 <p align="center">
-<img width="700" height="250" src="Image/commandlineoutputmvn.png"><br />
+<img width="300" height="250" src="Image/commandlineoutputmvn.png"><br />
 </p>
