@@ -61,7 +61,7 @@ These are ways:
 </p>
 
 <p align="center">
-<img width="250" height="250" src="Image/selectFolder.png"><br />
+<img width="450" height="250" src="Image/selectFolder.png"><br />
 </p>
 
 * Step 3: Click on checkbox and click on Finish button
