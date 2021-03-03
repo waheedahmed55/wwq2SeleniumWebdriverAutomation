@@ -111,7 +111,7 @@ These are ways:
 
 * Step 1: Right Click on WeightWatchersTest.java->Run As->TestNG Test
 <p align="center">
-<img width="300" height="250" src="Image/runtestfromclass.png"><br />
+<img width="400" height="350" src="Image/runtestfromclass.png"><br />
 </p>
 
 * OR You can execute from Command line as Maven
