@@ -1,8 +1,33 @@
 
+# Project Structure
+
+<p align="center">
+<img width="250" height="250" src="Image/projectStructure.png"><br />
+</p>
+* com.weightwatchers.base:-
+Under this package we have TestBase.java class which manages the prep work which needs to be done before any test executes for example it has methods which initiate the chrome driver
+paths and launch of browser etc. This is done to ensure for code re-usability and keep test code clean.
+
+* com.weightwatchers.data:-
+Under this package we have Constants.java file which holds the test data. This is again done to keep test code clean and avoid hard coding test data in test cases. Also if dataneeds to changed can be changed directly from here instead of changing every where its used in script. This also helps in code maintainbility.
+
+* com.weightwatchers.pages:-
+Under this package we have page locators file for each page we will be interacting in UI. Within each page locator file we will have implmented the methods which will be performed on that page. This is to again done to keep test code clean and locators in respective page so its easily accessible and referenced to page which they belong to. This is done to achieve Page Object Model. We have two pages we interact thus two java classes HomePage.java & WorkShopPage.java .
+
+* com.weightwatchers.Reporter:-
+Under this package we have stanadard code for extent reports which we will get geenrated post execution of tests. The ExtentReporter.java class implements IReporter testng interface
+to keep track of test cases status passed failed etc. Thus all test cases are annonated thus this listner methods records those status and add them into extent report.
+
+* com.weightwatchers.util:-
+Under this package we have utiliies files which we will using in our project for example TestUtil.java has helper method which we can use to take screenshot at the end of each test cases. For this project I am not using in test code however this can be used to take screenshot for example capturing error messages etc. By default if any test case fails it will take screenshot and save it screenshots folder under Projects root folder.
+
+* com.weightwatchers.tests:-
+Under this package we have written our automated test steps in WeightWatchersTest.java . You will notice some steps are grouped in single test case and for each priority and description is set. Thus they will be executed in that priority as they were layout in assignment. The decription explains what the test case is doing. 
+
 # How to Setup & Run the project:-
 These are ways:
 
-* Step 1: Download the code from repository and import in the eclipse
+* Step 1: Download the code from repository and import in the eclipse. File->Open Projects from File System
 <p align="center">
 <img width="250" height="250" src="Image/importFile.png"><br />
 </p>
@@ -105,3 +130,4 @@ These are ways:
 <p align="center">
 <img width="250" height="250" src="Image/testnghtmlreport.png"><br />
 </p>
+
