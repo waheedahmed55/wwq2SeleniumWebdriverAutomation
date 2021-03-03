@@ -1,8 +1,28 @@
+<p align="center">
+<img width="950" height="250" src="Image/seleniummavenlogo.png">
+</p>
+
+# Selenium WebDriver Automation Framework
+
+The purpose of the project is to display Keyword driven framework for web applications using SeleniumLibrary in Robotframework.
+
+## Tools & Technologies
+
+* Automation Tools : SeleniumWebDriver(3.14.0)
+* Language : Java
+* Testing Framework : TestNG (6.11)
+* Object Repository Design Pattern : Page Object Model
+* Test Execution Report:  Extent Reports HTML Dashboard (2.41.2) & TestNG
+* Browser Compatibility: Chrome and HeadlessChrome
+* Screenshot:  Take screen shot API to cover the flow and caputer invalid screenshots
+* Implicit wait
+* Project Setup: Maven
+
 
 # Project Structure
 
 <p align="center">
-<img width="250" height="350" src="Image/projectStructure.png"><br />
+<img width="250" height="450" src="Image/projectStructure.png"><br />
 </p>
 
 
@@ -17,11 +37,11 @@ Under this package we have Constants.java file which holds the test data. This i
 Under this package we have page locators file for each page we will be interacting in UI. Within each page locator file we will have implmented the methods which will be performed on that page. This is to again done to keep test code clean and locators in respective page so its easily accessible and referenced to page which they belong to. This is done to achieve Page Object Model. We have two pages we interact thus two java classes HomePage.java & WorkShopPage.java .
 
 * com.weightwatchers.Reporter:-
-Under this package we have stanadard code for extent reports which we will get geenrated post execution of tests. The ExtentReporter.java class implements IReporter testng interface
+Under this package we have standard code for extent reports which we will get generated post execution of tests. The ExtentReporter.java class implements IReporter testng interface
 to keep track of test cases status passed failed etc. Thus all test cases are annonated thus this listner methods records those status and add them into extent report.
 
 * com.weightwatchers.util:-
-Under this package we have utiliies files which we will using in our project for example TestUtil.java has helper method which we can use to take screenshot at the end of each test cases. For this project I am not using in test code however this can be used to take screenshot for example capturing error messages etc. By default if any test case fails it will take screenshot and save it screenshots folder under Projects root folder.
+Under this package we have utilities files which we will using in our project for example TestUtil.java has helper method which we can use to take screenshot at the end of each test cases. For this project I am not using in test code however this can be used to take screenshot for example capturing error messages etc. By default if any test case fails it will take screenshot and save it screenshots folder under Projects root folder.
 
 * com.weightwatchers.tests:-
 Under this package we have written our automated test steps in WeightWatchersTest.java . You will notice some steps are grouped in single test case and for each priority and description is set. Thus they will be executed in that priority as they were layout in assignment. The decription explains what the test case is doing. 
