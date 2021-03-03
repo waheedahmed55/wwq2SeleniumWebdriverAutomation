@@ -133,7 +133,7 @@ These are ways:
 
 * Step 3: You will see it will execute test and test report number of test executed passed failed . Also it will print out the meetings details
 <p align="center">
-<img width="400" height="250" src="Image/commandlineoutputmvn.png"><br />
+<img width="700" height="250" src="Image/commandlineoutputmvn.png"><br />
 </p>
 
 # Testout & Reports
